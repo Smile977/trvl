@@ -102,11 +102,13 @@
 .social-media {
   max-width: 1000px;
   width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
-.social-media-wrap {
+.cocial-media-wrap {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 90%;
   max-width: 1000px;

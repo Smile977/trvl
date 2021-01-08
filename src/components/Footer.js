@@ -65,7 +65,7 @@ export const Footer = () => {
               TRVL <i className="fab fa-typo3"/>
             </Link>
           </div>
-          <small className="website-rights">TRVL 2020</small>
+          {/*<small className="website-rights">TRVL 2020</small>*/}
           <div className="social-icons">
             <Link to="/" target="_blank" area-label="Facebook" className="social-icon-link facebook">
               <i className="fab fa-facebook-f"></i>
